@@ -22,6 +22,3 @@ Open a pull request.
 
 - HTML, CSS
 
-## Live Demo
-
-No live demo avaible
