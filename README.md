@@ -22,3 +22,25 @@ Open a pull request.
 
 - HTML, CSS
 
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@juanmanuelbyc](https://github.com/juanmanuelbyc)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/juanmanuelbyc/HelloMicroverse/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project doesn't have or require any license.
